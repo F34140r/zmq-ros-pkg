@@ -1,0 +1,11 @@
+<package>
+  <description brief="zmq">
+  The ZeroMQ communication library.
+  </description>
+  <author>nico.hochgeschwender@h-brs.de</author>
+  <license>LGPL</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://www.zeromq.org/</url>
+</package>
+
+
